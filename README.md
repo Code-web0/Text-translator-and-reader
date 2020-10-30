@@ -21,5 +21,3 @@ python 3
 
 ### Running:
 ```python Text-translator-and-reader.py```
-
-original script: text2speech.py
